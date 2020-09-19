@@ -9,7 +9,9 @@
   </a>
 </p>
 
-> Implementations of algorithms from book &#34;Grokking Algorithms - An Illustrated Guide for progrgammers and other curious people&#34;
+## Description
+
+Implementations of algorithms from book &#34;Grokking Algorithms - An Illustrated Guide for progrgammers and other curious people&#34;
 
 ## Install
 
@@ -38,7 +40,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Matheus de Souza Pessanha <matheus_pessanha2001@outlook.com>](https://github.com/Mdsp9070).<br />
-This project is [MIT](m) licensed.
+This project is [MIT](https://github.com/Mdsp9070/grokking-algorithms/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
