@@ -2,6 +2,9 @@
 #+author: Matheus de Souza Pessanha
 #+email: matheus_pessanha2001@outlook.com
 
+#+caption: build
+[[https://github.com/Mdsp9070/grokking-algorithms/workflows/build/badge.svg?branch=main]]
+
 ** Description
    :PROPERTIES:
    :CUSTOM_ID: description
