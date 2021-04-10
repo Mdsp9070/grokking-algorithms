@@ -111,6 +111,4 @@ Illustrated Guide for progrgammers and other curious people"
    :CUSTOM_ID: license
    :END:
 Copyright © 2020 [[https://github.com/Mdsp9070][Matheus de Souza
-Pessanha <matheus_pessanha2001@outlook.com>]]. This project is
-[[https://github.com/Mdsp9070/grokking-algorithms/blob/master/LICENSE][GPLv3]]
-licensed.
+Pessanha]]. This project is [[https://github.com/Mdsp9070/grokking-algorithms/blob/master/LICENSE][GPLv3]] licensed.
